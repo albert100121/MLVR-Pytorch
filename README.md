@@ -4,6 +4,7 @@
 This is a pytorch implementation of [The Visual Centrifuge: Model-Free Layered Video Representations](https://openaccess.thecvf.com/content_CVPR_2019/papers/Alayrac_The_Visual_Centrifuge_Model-Free_Layered_Video_Representations_CVPR_2019_paper.pdf) in CVPR 2019.
 
 <img src="./img/teasor.png">
+
 ## Model Architecture
 
 ### Predictor-Corrector Architecture
